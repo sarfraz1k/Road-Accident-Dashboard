@@ -1,3 +1,3 @@
 # Road-Accident-Dashboard
 Interactive Power BI End to End Dashboard !
-![Screenshot 2025-04-30 035609](https://github.com/user-attachments/assets/b3dbd363-6ad1-4a95-bfaa-a66c41044b5f)
+![Screenshot 2025-04-30 125911](https://github.com/user-attachments/assets/ea475683-2afc-4f81-bb1c-6792219c3a65)
